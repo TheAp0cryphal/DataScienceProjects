@@ -1,0 +1,11 @@
+Q1.
+NumPy works like a c array in python whilst panda works in strucutred dataframe. I felt NumPy was highly complex and therefore highly malleable 
+and might have more transformation and functions in general compared to pandas. Pnadas was more structured and easily comprehensible and therefore was 
+easier to read  and simply implemented. 
+
+Q2.
+41.9 ms ± 1.28 ms per loop (mean ± std. dev. of 7 runs, 10 loops each)
+835 ms ± 277 ms per loop (mean ± std. dev. of 7 runs, 1 loop each)
+
+Possibly because inbuilt functions of pandas libraries are highly optimized (especially at 
+handling large databases). It also utilizes C-strings and has no loops.
