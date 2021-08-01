@@ -1,0 +1,8 @@
+Q1.
+This equation is a representation of y = mx+c where c is the intercept and m is the slope and x is the input data.
+The line linearly regresses to find a best fit line. Linear Regression is a method to find correlation between scattered data points.
+
+Q2.
+First we parsed the dates from the datafile, then converted these dates to the timestamp. In essence, they are basically the same data but 
+one is datetime type and other is float. The linear regression would not have worked on datetime type. But the red line represents the linear correlation between 
+timestamp and created_at (if one increases so does the other).
