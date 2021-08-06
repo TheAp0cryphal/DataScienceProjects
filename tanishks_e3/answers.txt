@@ -1,0 +1,8 @@
+LOESS was easily configured and was fairly accurate in tracing the temperature rise and falls. I got better results with LOESS
+because it was extremely hard to tune to create the appropriate results. LOESS was more independent but less prone to encapsulating
+some outrageous datapoints whilst due to the time spent tuning on Kalman it tried to portray more about the data than LOESS which is probably better. 
+
+
+These features like elevation, course and timestamp might prove better at computing the direction and pace which could give us
+more accurate subsequent lat/lon values. The elevation could also account for changes in speed for the transition_covariance that might be 
+able to find tune the data a little more. I personally feel what I have got with the gpx path is good enough. 
