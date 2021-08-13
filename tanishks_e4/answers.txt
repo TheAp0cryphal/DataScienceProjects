@@ -1,0 +1,8 @@
+1. Not Necessarily, there are a lot of other factors that contribute to daily temperatures. This might be true locally but 
+for example Sahara desert has a high temperature level, but does it mean it is densely populated? No. Similarly, people
+prefer living in warmer climates so it does not explain much in my opinion.
+
+2. File compression is necessary for space conservation and easy transmission of data. We work with datas that are in Gigabytes
+of magnitude. The minor tradeoff for decompressing on runtime seems a better choice rather than working with that data.
+It might be faster in a sense that the overall process of data handling is improved with compressed files rather than uncompressed, although
+processing time might be slower.
