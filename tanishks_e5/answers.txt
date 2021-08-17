@@ -1,0 +1,9 @@
+1.
+sqrt was closest to the assumptions of a ttest
+2.
+The p-value statistic is based on hypothesis testing, where having alpha = 0.05 (default). If the p-value is 
+less than 0.05 the null hypothesis is automatically rejected that is it being a normal distribution.
+3.
+The transformed data has the highest p-value, therefore it seems like its farthest from the threshold of it being rejected.
+4.
+Weekdays are bound to have more comments on average probably due to having more number of days as well.
