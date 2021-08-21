@@ -1,0 +1,6 @@
+1. With the test p-values were more or less not less than 0.05 effectively rejecting the null hypothesis about the new interface being preffered.
+We might be p hacking when we segment the data to get a kind of result that verifies the hypothesis.
+2.
+We would need 21 tests. The probability would be around 0.660, this value is questionable, instead we could calculate new effective alpha as 0.05/21 = 0.00238095238
+3.
+partition_sort < qs1 < qs5 = qs2 < qs3 < qs4 < merge1
