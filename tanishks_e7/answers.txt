@@ -1,0 +1,5 @@
+1.
+The residuals look pretty normal, the OLS p-value having 40+ data points looks like a bell curve. Hence it is to say the ratings are increasing.
+2.
+Giving kalman filter the required coefficient values has made the prediction more accurate, just like image normalization 
+has to be calculated custom for each data to improve it's predictability and learnign range.
