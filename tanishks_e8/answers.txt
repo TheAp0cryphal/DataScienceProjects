@@ -1,0 +1,7 @@
+1. Random Forest and KNN performed more or less similarly (Random Forest being a little better more often than not) but both were significantly better than naive bayes.
+Random Forests handle categorical data extremely well and could be reason for their performance, knn also performs good when large data is available in this case, the color segments.
+LAB works better than RGB due to having more semantically meaningful values
+
+2.
+The model is making a few reasonable mistakes, it could be due to paucity of training data, but one thing I have learned is its not about having more features, sometimes less features work better.
+Its upto the data handlers to choose appropriate features.
