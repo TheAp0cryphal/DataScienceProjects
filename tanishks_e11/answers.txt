@@ -1,0 +1,14 @@
+
+1.
+Without caching the system, the program will calculate the reusable values again and again increasing runtime
+
+2
+real	1m5.230s
+user	0m24.732s
+sys	0m1.643s
+ with broadcast^
+ 
+real	1m0.242s
+user	0m37.442s
+sys	0m2.305s
+without broadcast^
